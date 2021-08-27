@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HelloWorldTest {
     @Test
-    public void helloMooham() {
+    public void greetingMooham() {
         HelloWorld helloWorld = new HelloWorld();
         String actual = helloWorld.greeting("Mooham");
         assertEquals("Hello Mooham",actual);
