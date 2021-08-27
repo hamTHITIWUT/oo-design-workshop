@@ -1,0 +1,13 @@
+.recommenders/
+.metadata/
+target/
+
+.settings
+*.jar
+*.zip
+*.class
+*.classpath
+*.project
+*.factorypath
+.idea*
+*.temp*
