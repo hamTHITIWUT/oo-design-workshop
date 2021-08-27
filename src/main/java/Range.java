@@ -6,6 +6,6 @@ public class Range {
     }
 
     public boolean isStartWithBracket() {
-        return this.input.startsWith("[");
+        return input.startsWith("[");
     }
 }
